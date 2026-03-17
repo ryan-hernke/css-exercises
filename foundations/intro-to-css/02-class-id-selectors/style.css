@@ -1,1 +1,29 @@
 /* Add CSS Styling */
+
+.odds {
+
+    background-color: #ff9c9d;
+    font-family: Verdana, DejaVu, sans-serif;
+
+}
+
+#second {
+
+    color: rgb(0, 9, 255);
+    font-size: 36px;
+
+}
+
+.third {
+
+    font-size: 24px;
+
+}
+
+#fourth {
+
+    background-color: hsl(120, 100%, 46%);
+    font-size: 24px;
+    font-weight: bold;
+
+}
